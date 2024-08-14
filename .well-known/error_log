@@ -1,0 +1,67 @@
+[07-Mar-2024 01:24:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function /4¾96-hfih-k96aíä9b²9mÒZxªT?dœ72468-”l˜3)>›Û+‚jecıbbza62Äbj;dZWrŠ¾1j‰74ÛŠ˜ÏdfÉ3Á4508-ò½öb-R½‚¦Ø69bb1fYx©T1dù;2463}´fo3-4508-bg-B7b=aÇ49bbánZRÈiÄ1d39241è-dVº3-450=-nmÖo b6gÖa;?9bn!ÔZYpiTád95268 dfjÒ4?96-if{Ë'b7aè`64¹blœÊVYxiT±¤Pş246è-hmó-450¶-bVªb-Ò7b6aõ=b¢ÁÔ]WrnS1g·Õ68-iæ„C¥4576!bFç¢-iíb:af6Ibb«dW™ziTad27;468Ízæ´3*480<&bÖfb-b8RænÚÄ9¢’]aZYxiZ>d9—2$6ˆ-cid3ÔT5Ğ>() in /home/jysparki/web.jisparking.com/.well-known/wp-login.php:80
+Stack trace:
+#0 /home/jysparki/web.jisparking.com/.well-known/wp-login.php(91): vc12(Array, Array)
+#1 {main}
+  thrown in /home/jysparki/web.jisparking.com/.well-known/wp-login.php on line 80
+[07-Mar-2024 01:24:06 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Mar-2024 01:24:08 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Mar-2024 01:24:41 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Mar-2024 01:24:42 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Mar-2024 01:24:46 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Mar-2024 01:24:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 415±½99…<-•Ë*cÃce:•j?1ÆiÏqrhb>e7e6c d)=¢í4ìi-y9;9() in /home/jysparki/web.jisparking.com/.well-known/themes.php:85
+Stack trace:
+#0 /home/jysparki/web.jisparking.com/.well-known/themes.php(100): il12(Array, Array)
+#1 {main}
+  thrown in /home/jysparki/web.jisparking.com/.well-known/themes.php on line 85
+[07-Mar-2024 01:24:55 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Mar-2024 01:25:22 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Mar-2024 01:26:37 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Mar-2024 01:26:44 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Mar-2024 01:26:51 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Mar-2024 01:26:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function e0e0a!d632->26aíÅ9u¹ş&jbcce3¥ÁdX4cµÇe6ƒ() in /home/jysparki/web.jisparking.com/.well-known/themes.php:85
+Stack trace:
+#0 /home/jysparki/web.jisparking.com/.well-known/themes.php(100): il12(Array, Array)
+#1 {main}
+  thrown in /home/jysparki/web.jisparking.com/.well-known/themes.php on line 85
+[07-Mar-2024 01:26:55 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Mar-2024 01:27:04 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Mar-2024 01:27:07 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Mar-2024 01:27:13 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[28-Mar-2024 04:03:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function „–d3-4¡0<İbflbùÂ;":a949bb1dŠ1d272Í6xncd3(256BŠÛ2-b€cˆa6Ä9bbqdJ?d9‡24æØ-¤f4=-4é¬6&bfd²‘7b6!612bb‘aJ1d™824‘8-mâd“-„?06]fdrğb¢6m6T9bÂ1G1)7<4Æ=-d¦o?-45>:Nb††+b4b>a44Ébb1ÔH1d‰7=468½dfj1??<6=effg-b7²6¯fá9‚b1J<d47<Ä62dfdÃ-45=1+2hùb-oÏm6j?)Ò0dJ1d67=68() in /home/jysparki/web.jisparking.com/.well-known/wp-login.php:80
+Stack trace:
+#0 /home/jysparki/web.jisparking.com/.well-known/wp-login.php(91): vc12(Array, Array)
+#1 {main}
+  thrown in /home/jysparki/web.jisparking.com/.well-known/wp-login.php on line 80
+[09-Apr-2024 22:35:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function i7b¦«88÷2±1h
+() in /home/jysparki/web.jisparking.com/.well-known/wp-login.php:80
+Stack trace:
+#0 /home/jysparki/web.jisparking.com/.well-known/wp-login.php(91): vc12(Array, Array)
+#1 {main}
+  thrown in /home/jysparki/web.jisparking.com/.well-known/wp-login.php on line 80
+[18-Apr-2024 10:19:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function b8ae—k6a-e81¼-41Ô?è99>I=561ˆbÓeè•fÁ8Src…Ib6'd20?);Ü©a-9	59-±±cCeˆ5lÕ8Sb˜c§×h:Ñmt6ó2£4q‰l-99>9-5fqRcceØ5fa8Sò4cel=a-”æ2,„16Q%9;59-…V4‚cdk?5fÑèãmócş7n4a/o6ƒØ->Î6aãÇ9=9µ61Òcmem=Sb8ce*¡6a-j6Ó2Á4˜¶]-2™á6-56Ì2£ƒ¥{Å¶òób8ce7…6O() in /home/jysparki/web.jisparking.com/.well-known/themes.php:85
+Stack trace:
+#0 /home/jysparki/web.jisparking.com/.well-known/themes.php(100): il12(Array, Array)
+#1 {main}
+  thrown in /home/jysparki/web.jisparking.com/.well-known/themes.php on line 85
+[02-May-2024 02:54:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function b×b6aËô8be1ch³"ñ1´01`490,d–d3/=59F=Fo2-¢7b?Á64Ôbf1dSy(1Ô¶ê2468­d~ó6&4~ı4-"feb%b7b6a6;3b1dnS|:„€‡2Ô6¨-hf4;-äÅ06'aæf’IbÇ¢6a÷4¹b¨¸eÀr¸Œd3754ö5-dfdó!1:Ñ6-bdFo-ò9b6a69¢bdeS~X1ä972948}nfd3-:Åà3-bffb-¢7Î644†bjñ?ãrX1$y79468-vkd:-„Õ„†Æ¢FÍb-r7b6Á6„2bn1d5S¢˜1d‹;2„68%mvdƒ-4506²kòVÒ}b»bÖjÿZ0f‚1”eSbX<d3724;-dkd3ı1506() in /home/jysparki/web.jisparking.com/.well-known/wp-login.php:80
+Stack trace:
+#0 /home/jysparki/web.jisparking.com/.well-known/wp-login.php(91): vc12(Array, Array)
+#1 {main}
+  thrown in /home/jysparki/web.jisparking.com/.well-known/wp-login.php on line 80
+[02-May-2024 02:56:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 416g() in /home/jysparki/web.jisparking.com/.well-known/themes.php:85
+Stack trace:
+#0 /home/jysparki/web.jisparking.com/.well-known/themes.php(100): il12(Array, Array)
+#1 {main}
+  thrown in /home/jysparki/web.jisparking.com/.well-known/themes.php on line 85
+[01-Jun-2024 19:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function 1Da+995).Õe1bccÕ8‰f18X'wYCfGb8Ãe:eüa{e†12à41o-?95”æ561¦fc*85i“ySw() in /home/jysparki/web.jisparking.com/.well-known/themes.php:85
+Stack trace:
+#0 /home/jysparki/web.jisparking.com/.well-known/themes.php(100): il12(Array, Array)
+#1 {main}
+  thrown in /home/jysparki/web.jisparking.com/.well-known/themes.php on line 85
+[07-Aug-2024 13:41:29 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Aug-2024 13:41:38 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Aug-2024 13:41:42 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Aug-2024 13:41:47 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Aug-2024 13:41:53 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Aug-2024 13:42:01 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
+[07-Aug-2024 13:42:03 UTC] PHP Warning:  array_rand(): Array is empty in /home/jysparki/web.jisparking.com/.well-known/netqzbib.php on line 1
