@@ -42,6 +42,6 @@
 /* Media query para pantallas móviles */
 @media (max-width: 768px) {
     .hero-slide-content > h3 {
-        font-size: 20px !important; /* Ajusta el tamaño del texto en pantallas pequeñas */
+        font-size: 30px !important; /* Ajusta el tamaño del texto en pantallas pequeñas */
     }
 }
