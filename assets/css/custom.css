@@ -38,6 +38,22 @@
     margin-top: 40px !important;
 }
 
+.breadcrumb-area {
+    background-color: #0a2787 !important;
+}
+
+.breadcrumb-content > .title {
+    color: white !important;
+}
+
+.breadcrumb-content > ul > li > a {
+    color: white !important;
+}
+
+.breadcrumb-content > ul > li.active {
+    color: #eb7406 !important;
+}
+
 
 /* Media query para pantallas móviles */
 @media (max-width: 768px) {

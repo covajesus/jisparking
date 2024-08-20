@@ -21762,17 +21762,7 @@ input[type="checkbox"]:checked + label:after {
   background-size: cover;
   background-position: center center;
   position: relative;
-}
-
-.about-feature-bg::before {
-  content: "";
-  height: 100%;
-  width: 100%;
-  position: absolute;
-  background: #fff;
-  opacity: .9;
-  top: 0;
-  left: 0;
+  height: 500px;
 }
 
 .about_content .title {
